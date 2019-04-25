@@ -5,7 +5,7 @@ function destructivelyAppendKitten(name) {
 }
 
 function destructivelyPrependKitten(name) {
-  
+  return kittens.
 } 
 describe('destructivelyPrependKitten(name)', function() {
     it('prepends a kitten to the beginning of the kittens array', function() {
