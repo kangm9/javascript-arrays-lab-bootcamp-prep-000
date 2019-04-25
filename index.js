@@ -1,6 +1,8 @@
 var kittens = ["Milo", "Otis", "Garfield"] 
 
-function destructivelyAppendKitten
+function destructivelyAppendKitten(name) {
+  
+}
 describe('destructivelyAppendKitten(name)', function() {
     it('appends a kitten to the end of the kittens array', function() {
       window.kittens = ['Milo', 'Otis', 'Garfield'];
